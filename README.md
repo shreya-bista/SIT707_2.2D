@@ -17,7 +17,7 @@ python Registration_Page.py
 Before running the script, ensure you have the following:
 
 - Python 3.x installed: [Download Python](https://www.python.org/downloads/)
-- Chrome browser installed: [Download Firefox]
+- Firefox browser installed: [Download Firefox]
 - FirefoxDriver executable: [Download FirefoxDriver](https://github.com/mozilla/geckodriver/releases)
 - Note: Make sure to download the FirefoxDriver version compatible with your installed Firefox browser.
 

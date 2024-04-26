@@ -32,7 +32,7 @@ PASSWORD = '123@Test'
 CONFIRM_PASSWORD = '123@test'
 
 FULL_NAME = 'John Miller'
-EMAIL = 'John4@yopmail.com'
+EMAIL = 'John5@yopmail.com'
 INVALID_PASSWORD = '123'
 VALID_PASSWORD = 'Test@123'
 
