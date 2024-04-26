@@ -32,7 +32,7 @@ python Registration_Page.py
 
 4. The script will launch a Firefox browser and start test. You will see the output messages indicating the progress and success of each step.
 
-5. After completing the execution, the script will exit, and the Chrome browser will close automatically.
+5. After completing the execution, the script will exit, and the Firefox browser will close automatically.
 
 ## Script Overview
 The code automates the following scenarios:
