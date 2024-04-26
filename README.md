@@ -18,7 +18,7 @@ Before running the script, ensure you have the following:
 
 - Python 3.x installed: [Download Python](https://www.python.org/downloads/)
 - Chrome browser installed: [Download Firefox]
-- ChromeDriver executable: [Download FirefoxDriver](https://github.com/mozilla/geckodriver/releases)
+- FirefoxDriver executable: [Download FirefoxDriver](https://github.com/mozilla/geckodriver/releases)
 - Note: Make sure to download the FirefoxDriver version compatible with your installed Firefox browser.
 
 ### How To Run
